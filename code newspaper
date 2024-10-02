@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page Responsive</title>
+    <link rel="stylesheet" href="CSS/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1 class="heading-1">Edukasi Cyber</h1>
+        <div class="sub-heading">
+          <p>Selasa, <span>24 September 2024</span></p>
+          <p class="importent">yang perlu anda ketahui</p>
+        </div>
+      </header>
+
+      <div class="main">
+        <div class="home">
+          <div class="left">
+            <img src="img/Judol.jpg" alt="Poster Judi" />
+
+            <h2 class="heading-2">Bahaya Bermain Judol</h2>
+          </div>
+
+          <div class="right">
+            <h3 class="heading-3">berita sebagai berikut</h3>
+            <div class="lists">
+              <div class="list">
+                <img src="img/POSTER.png" alt="photo-1" />
+                <p>
+                  Waspada Maraknya Judi Online di Situs Pendidikan dikampanyekan
+                  oleh Badan Siber dan Sandi Negara (BSSN). Keamanan digital
+                  juga menjadi titik awal untuk menghindari jebakan Judi Online.
+                  Amankan diri dan perangkat digital untuk menutup segala akses
+                  ke judi Online.
+                </p>
+              </div>
+
+               <div class="list"></div>
+                <img src="img/JOKOWI.jpeg" alt="photo-2" />
+                <p>
+                  Bagaimana seorang bisa keluar dari judi online?
+                 Melepaskan diri dari jerat candu judi tentu tidaklah instan. 
+                 Langkah awal yang bisa Anda lakukan ialah mawas diri dan lapang dada menerima kenyataan bahwa anda sedang mengalami kecanduan judi. 
+                 Blokir akses Anda ke berbagai bentuk judi yang menyebabkan kecanduan. Kemudian, tutup akses ke semua jenis perjudian lainnya.
+                 Tinggalkan pergaulan yang selama ini membawa anda ke perjudian. 
+                 Yang paling utama adalah dekatkan diri kepada Allah, mohon ampunan dan bimbingan semoga dikembalikan ke jalan yang benar.
+
+                 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَٰمُ رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ  
+
+                Artinya: “Hai orang-orang yang beriman, sesungguhnya (meminum) khamar, berjudi, (berkorban untuk) berhala, mengundi nasib dengan panah, adalah termasuk perbuatan syaitan. 
+                Maka jauhilah perbuatan-perbuatan itu agar kamu mendapat keberuntungan.”(QS. Al-Maidah [5] ayat 90-91). 
+                </p>
+              </div>
+
+              <div class="list"></div>
+              <img src="img/JUDI SLOT.jpg" alt="photo-3" />
+              <p>
+               Contoh diatas adalah bentuk dari permainan tersebut
+               gambar diatas hanya bisa dimainkan di web situsnya namun,
+               anda harus membayar dengan sebutan deposit
+              </p>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

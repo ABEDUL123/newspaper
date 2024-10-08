@@ -4,27 +4,10 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="CSS/styles.css" />
     <title>Home Pages Responsive</title>
   </head>
   <body>
-    <nav>
-      <!-- Checkbox for toggling menu -->
-      <input type="checkbox" id="check">
-      <!-- Menu icon -->
-      <label for="check" class="checkbtn">
-        <i class="fas fa-bars"></i>
-      </label>
-      <!-- Site logo -->
-      <label class="logo">Bahaya Sosmed</label>
-      <!-- Navigation links -->
-      <ul>
-        <li><a class="active" href="#">Home</a></li>
-        <li><a href="#">Video</a></li>
-      </ul>
-    </nav>
-    <!-- Section for image -->
-
     <div class="container">
       <header>
         <h1 class="heading-1">Edukasi SOSIAL MEDIA</h1>

@@ -1,0 +1,8 @@
+function updateTimeAndDate(){
+    const time = new Date();
+    const currentTime = time.toLocaleTimeString();
+    const currentDate = time.toLocaleDateString();
+    document.querySelector("#time-and-date").innerHTML = currentTime + " " + currentDate;
+}
+
+setInterval(updateTimeAndDate, 1000);
